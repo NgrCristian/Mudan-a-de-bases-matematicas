@@ -27,7 +27,7 @@ int main(){
             for(;;){
 
                 // Comandos para evitar um 0(zero) na frente dos numeros, menores
-                // que a base, depois da transformação.
+                // que a base, depois da transformaÃ§Ã£o.
 
                 if(numero / base < base){
                     hex[controle] = resultado % base;
